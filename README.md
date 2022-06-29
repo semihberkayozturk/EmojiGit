@@ -1,1 +1,1 @@
-# EmojiGit, a React app.
+# EmojiGit
